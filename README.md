@@ -1,3 +1,9 @@
+##Shopping Counter App
+
+This is a shopping counter Reactjs App. Although it may appear simple, it exhibits patterns that appear in a shopping cart page.
+
+Built with React and lil bit of css/js bootstrap framework.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
